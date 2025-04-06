@@ -111,10 +111,7 @@ The analysis highlights significant disparities in healthcare access across Afri
 
 ### **Future Enhancements**
 
-Expand dataset to include more real-time patient feedback.
-
-Integrate machine learning to predict patient needs and optimize resource allocation.
-
-Develop an interactive web dashboard for real-time monitoring of healthcare accessibility.
-
-This portfolio showcases a comprehensive analysis of healthcare access in Africa, backed by data-driven insights and actionable recommendations. Let's bridge the healthcare gap with informed decisions!
+- Expand dataset to include more real-time patient feedback.
+- Integrate machine learning to predict patient needs and optimize resource allocation.
+- Develop an interactive web dashboard for real-time monitoring of healthcare accessibility.
+  
