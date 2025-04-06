@@ -1,0 +1,121 @@
+# **Healthcare Access in Africa**
+
+## **Table of Contents**
+
+- [Project Overview](project_overview)
+- [Data Source](data_source)
+- [Tools Used](tools_used)
+- [Data Cleaninig](data_cleaning)
+- [Exploratory Data Analysis (EDA)](exploratory_data_analysis_(EDA))
+- [Data Analysis](data_analysis)
+- [Data Insights](data_insights)
+- [DAX Used in Power Query](dax_used_in_power_query)
+- [Results of DAX](results_of_dax)
+- [Recommendations](recommendations)
+- [Conclusion](conclusion)
+- [Future enhancements](future_enhancements)
+---
+
+### **Project Overview**
+
+This project analyzes healthcare access across Africa, focusing on key aspects such as patient distribution, healthcare workforce, funding allocation, 
+and accessibility in urban and rural areas. The goal is to identify gaps and provide data-driven recommendations to improve healthcare services.
+
+---
+
+### **Data Source**
+
+The dataset was sourced from [Axia Africa]
+It includes healthcare facility locations, funding distribution, doctor-to-patient ratios, emergency response times, and patient satisfaction levels.
+
+---
+
+
+
+### **Tools Used**
+
+- Data Cleaning & Transformation: Power Query
+- Exploratory Data Analysis: Power BI
+- Data Visualization: Power BI
+- DAX Calculations: Power BI (DAX)
+
+---
+
+### **Data Cleaning**
+
+- Handled missing values in funding and patient visit records.
+- Standardized healthcare facility names and regions.
+- Filtered out duplicate or inconsistent entries.
+- Ensured data integrity before analysis.
+
+---
+
+### **Exploratory Data Analysis (EDA)**
+
+- Examined distributions of healthcare facilities by region.
+- Analyzed urban vs. rural patient visit trends.
+- Identified outliers in funding and workforce allocation.
+- Correlated healthcare accessibility with patient satisfaction.
+
+---
+
+### **Data Analysis**
+
+- Compared funding allocation between urban and rural areas.
+- Assessed the efficiency of healthcare facilities by type (clinic, hospital, health center).
+- Analyzed emergency response time versus funding levels.
+- Measured workforce distribution and doctor-to-patient ratios.
+
+---
+
+### **Data Insights**
+
+- Rural areas receive 53.3% of funding, yet they experience higher distances to healthcare facilities.
+- Workforce distribution shows urban areas have 4.6 nurses per 1,000 patients, while rural areas have 1.5.
+- Emergency response times are longer in rural regions despite higher funding allocation.
+- Healthcare efficiency varies by facility type, with clinics serving the highest number of patients efficiently.
+
+---
+
+### **DAX Used in Power Query**
+
+- Created measures to calculate doctor-to-patient and nurse-to-patient ratios.
+- Used SUMX and AVERAGEX for patient visit trends.
+- Applied IF & SWITCH statements to categorize response times.
+- Developed calculated columns for funding received per facility type.
+
+---
+
+### **Results of DAX**
+
+- Clear visualization of funding gaps and workforce shortages.
+- Interactive breakdown of emergency response times per region.
+- Dynamic insights into facility efficiency by urban and rural areas.
+
+---
+
+### **Recommendations**
+
+- Increase workforce allocation in rural areas to balance doctor/nurse availability.
+- Improve healthcare facility distribution to reduce the average distance to healthcare.
+- Optimize funding utilization by linking funding directly to patient volume and needs.
+- Enhance emergency response systems in underserved regions.
+
+---
+
+### **Conclusion**
+
+The analysis highlights significant disparities in healthcare access across Africa. While funding is relatively balanced, workforce distribution and facility efficiency require optimization. Data-driven policymaking can enhance healthcare accessibility and satisfaction rates.
+
+---
+
+### **Future Enhancements**
+
+Expand dataset to include more real-time patient feedback.
+
+Integrate machine learning to predict patient needs and optimize resource allocation.
+
+Develop an interactive web dashboard for real-time monitoring of healthcare accessibility.
+
+This portfolio showcases a comprehensive analysis of healthcare access in Africa, backed by data-driven insights and actionable recommendations. Let's bridge the healthcare gap with informed decisions!
+
